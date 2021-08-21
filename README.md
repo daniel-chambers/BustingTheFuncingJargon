@@ -5,6 +5,8 @@ This repository contains the presentation materials for the "Busting the Func'in
 >
 > It's hard to avoid the influence of functional programming in modern software development. FP ideas and techniques are now pervasive even in mainstream imperative programming languages and libraries. You've almost certainly been using some FP ideas already, even if you don't know it! In this talk we'll gradually walk through the very basics of functional programming and learning that the fancy jargon isn't really all that complicated after all! We'll pick up some basic F# along the way, but the jargon-busting will help you understand an FP library in any language.
 
+Video: [NDC Sydney 2019](https://youtu.be/LUIluMm01xw)
+
 ## Additional Resources
 - [FSharp for Fun and Profit][1]
 - [Mark Seeman's Blog][2]
